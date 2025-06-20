@@ -193,4 +193,14 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Mac
+.DS_Store
+.AppleDouble
+.AppleDB
+.AppleDesktop
+.apdisk
+.thumbs.db
+.thumbs.db:encryptable
+
+# Created files
 trained_model.pth
