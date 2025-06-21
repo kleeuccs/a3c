@@ -1,5 +1,5 @@
 # a3c
-## Asynchronous advasntage actor-critic
+## Asynchronous advantage actor-critic
 ### Generated code with interative prompts using ChatGPT 40
 
 Example program generated with prompt engineering to get a result that could be run with minimal additional libraries.  This has the following dependencies:
